@@ -1,7 +1,6 @@
 <?php
 session_start();
 include('database/dbconfig.php');
-include('includes/scripts.php');
 include('includes/header.php');
 ?>
 
