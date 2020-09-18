@@ -148,7 +148,7 @@ the data-spy and data-target are part of the built-in Bootstrap scrollspy functi
                             <div class="sweep-layer">
                                 <div class="sweep-content">
                                     <div class="sweep-icon">
-                                        <a href="portfolio-item-dark.php">
+                                        <a href="#">
                                             <i class="fa fa-eye primary-3" aria-hidden="true"></i>
                                         </a>
                                     </div>
