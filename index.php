@@ -14,7 +14,7 @@ the data-spy and data-target are part of the built-in Bootstrap scrollspy functi
 <header>
     <div id="st-logo">
         <a href="#0">
-            <img src="assets/images/logo-normales.png" alt="Logo">
+            <img src="assets/images/analytics.png" alt="Logo">
         </a>
     </div>
 </header>
