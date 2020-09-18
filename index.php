@@ -126,7 +126,7 @@ the data-spy and data-target are part of the built-in Bootstrap scrollspy functi
                                             <i class="fa fa-eye primary-3" aria-hidden="true"></i>
                                         </a>
                                     </div>
-                                    <h3><a href="portfolio-item-dark.php">Metrics & Performance Dashboard</a></h3>
+                                    <h3><a href="#">Metrics & Performance Dashboard</a></h3>
                                     <p>We develop any type of monitoring dashboard you might need to remote control your online business activities. Just as CRMs (Customer relationship management) Systems,
                                         we will guide you to choose efficiently all functionnalities you need according to your business platform.
                                 
