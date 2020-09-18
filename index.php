@@ -517,7 +517,7 @@ the data-spy and data-target are part of the built-in Bootstrap scrollspy functi
                     <div class="contact-form">
                         <h4 class="wow fadeIn animated">Send us a <span>Message</span></h4>
 
-                        <form method="post" action="code-ank.php">
+                        <form method="post">
                             <div class="form-group wow fadeIn animated">
                                 <label for="name">Full Name: </label>
                                 <input type="text" id="name" name="name" class="form-control">
