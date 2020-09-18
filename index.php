@@ -110,7 +110,7 @@ the data-spy and data-target are part of the built-in Bootstrap scrollspy functi
                 <h2 class="wow fadeInLeft animated">Apllications we develop for your needs</h2>
             </div>
             <div class="col-md-12 new-style">
-                <p class="wow fadeInLeft animated"><a class="secondary">Here is a summary of what we do</a></p>
+                <p class="wow fadeInLeft animated"><a class="secondary">A summary of what we do</a></p>
             </div>
             <div class="col-md-12 portfolio-images">
                 <div class="col-md-3 col-sm-6 col-xs-6">
