@@ -13,7 +13,7 @@
 
     <title>ANK ANALYTICS | Home</title>
 
-    <link rel="icon" href="fav.jpg" type="image/x-icon">
+    <link rel="icon" href="favicon.png" type="image/x-icon">
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700%7CTitillium+Web:200,300,400,600,700&amp;subset=latin-ext" rel="stylesheet">
