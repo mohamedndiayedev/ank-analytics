@@ -122,7 +122,7 @@ the data-spy and data-target are part of the built-in Bootstrap scrollspy functi
                             <div class="sweep-layer">
                                 <div class="sweep-content">
                                     <div class="sweep-icon">
-                                        <a href="portfolio-item-dark.php">
+                                        <a href="#">
                                             <i class="fa fa-eye primary-3" aria-hidden="true"></i>
                                         </a>
                                     </div>
@@ -152,7 +152,7 @@ the data-spy and data-target are part of the built-in Bootstrap scrollspy functi
                                             <i class="fa fa-eye primary-3" aria-hidden="true"></i>
                                         </a>
                                     </div>
-                                    <h3><a href="portfolio-item-dark.php">Scalable Web Apllication</a></h3>
+                                    <h3><a href="#">Scalable Web Apllication</a></h3>
                                     <p>We help organisations reach new customers and let them know about the organization and the services provided by it. Web applications can play a crucial role in the branding process. 
                                         With ANK ANALYTICS, we help you to maintain a proper communication channel between potential customers and your business organization.</p>
                                 </div>
@@ -172,7 +172,7 @@ the data-spy and data-target are part of the built-in Bootstrap scrollspy functi
                             <div class="sweep-layer">
                                 <div class="sweep-content">
                                     <div class="sweep-icon">
-                                        <a href="portfolio-item-dark.php">
+                                        <a href="#">
                                             <i class="fa fa-eye primary-3" aria-hidden="true"></i>
                                         </a>
                                     </div>
@@ -198,7 +198,7 @@ the data-spy and data-target are part of the built-in Bootstrap scrollspy functi
                             <div class="sweep-layer">
                                 <div class="sweep-content">
                                     <div class="sweep-icon">
-                                        <a href="portfolio-item-dark.php">
+                                        <a href="#">
                                             <i class="fa fa-eye primary-3" aria-hidden="true"></i>
                                         </a>
                                     </div>
